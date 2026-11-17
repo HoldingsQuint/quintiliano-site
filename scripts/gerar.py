@@ -44,6 +44,7 @@ def pagina(caminho, titulo, descricao, corpo, atual):
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="facebook-domain-verification" content="303kphftldqxe6akpcox22kbzmjh5s">
   <title>{titulo}</title>
   <meta name="description" content="{descricao}">
   <meta property="og:title" content="{titulo}">
